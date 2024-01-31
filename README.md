@@ -90,3 +90,24 @@ from the picture we can see the answer is
 
 
 
+## Question 6. Data Exporting
+
+Once exported, how many partitions (folders) are present in Google Cloud?
+
+* 96
+* 56
+* 67
+* 108
+
+
+from the picture we can see the closest answer is
+
+* 96
+
+  <img src="https://github.com/juandavidlozano/Homework2_zoomcamp/blob/main/homework2.5.jpg" alt="Answer 1" width="1000" height="900">
+
+
+
+
+
+
