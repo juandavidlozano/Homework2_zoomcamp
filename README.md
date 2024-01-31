@@ -15,7 +15,7 @@ from the picture we can see the answer is
 
 * 266,855 rows x 20 columns
 
-<img src="https://github.com/juandavidlozano/Homework1_zoomcamp/blob/main/homework2.1.jpg" alt="Answer 1" width="1000" height="900">
+<img src="https://github.com/juandavidlozano/Homework2_zoomcamp/blob/main/homework2.1.jpg" alt="Answer 1" width="1000" height="900">
 
 ## Question 2. Data Transformation
 
@@ -31,7 +31,7 @@ from the picture we can see the answer is
 
 * 139,370 rows
 
-<img src="https://github.com/juandavidlozano/Homework1_zoomcamp/blob/main/homework2.2.jpg" alt="Answer 1" width="1000" height="900">
+<img src="https://github.com/juandavidlozano/Homework2_zoomcamp/blob/main/homework2.2.jpg" alt="Answer 1" width="1000" height="900">
 
 
 ## Question 3. Data Transformation
@@ -48,7 +48,7 @@ from the picture we can see the answer is
 * `data['lpep_pickup_date'] = data['lpep_pickup_datetime'].dt.date`
 
 
-<img src="https://github.com/juandavidlozano/Homework1_zoomcamp/blob/main/homework2.3.jpg" alt="Answer 1" width="1000" height="900">
+<img src="https://github.com/juandavidlozano/Homework2_zoomcamp/blob/main/homework2.3.jpg" alt="Answer 1" width="1000" height="900">
 
 
 
@@ -67,7 +67,7 @@ from the picture we can see the answer is
 
 * 1 or 2
 
-<img src="https://github.com/juandavidlozano/Homework1_zoomcamp/blob/main/homework2.4.jpg" alt="Answer 1" width="1000" height="900">
+<img src="https://github.com/juandavidlozano/Homework2_zoomcamp/blob/main/homework2.4.jpg" alt="Answer 1" width="1000" height="900">
 
 
 ## Question 5. Data Transformation
@@ -86,7 +86,7 @@ from the picture we can see the answer is
 
 * 4
 
-<img src="https://github.com/juandavidlozano/Homework1_zoomcamp/blob/main/homework2.4.jpg" alt="Answer 1" width="1000" height="900">
+<img src="https://github.com/juandavidlozano/Homework2_zoomcamp/blob/main/homework2.4.jpg" alt="Answer 1" width="1000" height="900">
 
 
 
